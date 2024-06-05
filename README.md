@@ -5,4 +5,3 @@ This study addresses the persistent challenges faced by University of the Philip
 
 Keywords: wayfinding, campus navigation
 
-Read [How To Document](HOWTO.md) for more details.
