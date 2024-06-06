@@ -14,5 +14,4 @@ flutter pub get
 ```
 flutter run
 ```
-4. A APK file can also be downloaded from this link which can be used on any Android device.
-[Hanap App - v1.6W](https://drive.google.com/file/d/1sUZVyRpA3IwG8RaZGRgxfn87SIBHlhVK/view?usp=sharing)
+4. An APK file of the application can also be downloaded from this [link](https://drive.google.com/file/d/1sUZVyRpA3IwG8RaZGRgxfn87SIBHlhVK/view?usp=sharing) which can be used on any Android device.
