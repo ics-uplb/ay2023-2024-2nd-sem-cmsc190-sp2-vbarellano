@@ -1,0 +1,97 @@
+{
+    "users": {
+        "userID1": {
+            "firstName":"",
+            "lastName":"",
+            "isAdmin":"",
+            "isSuperAdmin":"",
+            "approvedBy":"userID",
+            "savedRooms":[
+                "roomID1",
+                "roomID2"
+            ],
+            "savedBuildings":[
+                "buildingID1",
+                "buildingID2"
+            ]
+        }
+    },
+    "admins": {
+        "adminID": {
+            "firstName":"",
+            "lastName":"",
+            "approvedBy":"userID",
+            "savedRooms":[
+                "roomID1",
+                "roomID2"
+            ],
+            "savedBuildings":[
+                "buildingID1",
+                "buildingID2"
+            ]
+        }
+    },
+    "buildings": {
+        "buildingID1": {
+            "name":"",
+            "popular_name": {
+                "name1":true,
+                "name2":true,
+                "name3":true
+            },
+            "college": "",
+            "image_address": "",
+            "address": "",
+            
+            "description": "",
+            "latitude":"",
+            "longitude":"",
+            "floormaps": {
+                "LG":"",
+                "1":"",
+                "2":""
+            },
+            "is_approved": false,
+            "contributed_by": "userID",
+            "approved_by": "userID",
+            "timestamp": ""
+        }
+    },
+    "rooms":{
+        "roomID1": {
+            "building_id": "",
+            "name":"",
+            "code":"",
+            "image_address":"",
+            "address":"",
+            "description":"",
+            "floor_level":"",
+            "contributed_by": "userID",
+            "approved_by": "userID",
+            "timestamp": "",
+            "directions": {
+                "Way1":{
+                    "Step1": {
+                        "instruction": "",
+                        "picture":""
+                    },
+                    "Step2": {
+                        "instruction": "",
+                        "picture":""
+                    }
+                }
+            }
+        }
+    },
+    "reports": {
+        "reportID1": {
+            "sender": "userID",
+            "description": "",
+            "image_address": "",
+            "datetime_filed": "",
+            "datetime_resolved": "",
+            "status": "",
+            "resolved_by": ""
+        }
+    }
+}
