@@ -10,9 +10,9 @@
 ```
 flutter pub get
 ```
-3. Run the following command to use the program:
+3. Run the following command to use the program in your terminal:
 ```
 flutter run
 ```
 4. A APK file can also be downloaded from this link which can be used on any Android device.
-[a link](https://drive.google.com/file/d/1sUZVyRpA3IwG8RaZGRgxfn87SIBHlhVK/view?usp=sharing)
+[Hanap App - v1.6W](https://drive.google.com/file/d/1sUZVyRpA3IwG8RaZGRgxfn87SIBHlhVK/view?usp=sharing)
