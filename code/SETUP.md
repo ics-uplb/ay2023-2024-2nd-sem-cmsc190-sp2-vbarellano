@@ -1,19 +1,18 @@
 # Development Set-up
 ## Prerequisites
-* interpreter
-* package manager 1
-* test files (file1, file2)
-* Android phone
+* Laptop
+* Stable Internet Connection
 * IDE used, etc
 ## Instructions
-1. Install `interpeter` from link
-2. Run the following command to install other packages:
+1. Install `dart` and `flutter` on your device.
+2. Create Android Emulator 
+3. Run the command to install other dependencies:
 ```
-interpreter install package_manager
-package_manager -i packages
+flutter pub get
 ```
 3. Run the following command to use the program:
 ```
-myprogram file1 file2
+flutter run
 ```
-4. A binary file can also be downloaded from this link which can be used by any device.
+4. A APK file can also be downloaded from this link which can be used on any Android device.
+[a link](https://drive.google.com/file/d/1sUZVyRpA3IwG8RaZGRgxfn87SIBHlhVK/view?usp=sharing)
