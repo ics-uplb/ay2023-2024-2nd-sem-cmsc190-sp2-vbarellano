@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217605384987",
+    "project_id": "hanap-app",
+    "storage_bucket": "hanap-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217605384987:android:408fcc2c3d598cb8d601be",
+        "android_client_info": {
+          "package_name": "com.example.hanap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGm0N1JBV5mCPKaOFn630tORfy8GR-0m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
